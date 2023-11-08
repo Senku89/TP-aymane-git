@@ -2,7 +2,13 @@ h1 {
     color: beige;
 }
 
+<<<<<<< Updated upstream
 .menu {
     background-color: palegreen;
     color: white;
+=======
+.copyright {
+    background-color: black;
+    color: purple;
+>>>>>>> Stashed changes
 }
